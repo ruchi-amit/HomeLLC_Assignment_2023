@@ -1,5 +1,5 @@
 # HomeLLC_Assignment_2023
-**Study of key factors that influence US home prices nationally**
+# Study of key factors that influence US home prices nationally
 In this project, we are trying to identify the major variables affecting US house values during the previous 20 years, we will use data-driven insight in this study. Our aim is to construct a complete model that clarifies the complex relationship between many factors and home prices by utilizing both publicly available data and cutting-edge data science approaches.
 
 
@@ -22,10 +22,11 @@ The following variables are chosen for the study-
 -Percentage of population above 65
 
 
-# Observation :As most variable increase with time. So, it is expected that they will have high correlation. So, instead of depending upon the linear model, we can directly study the impact of variables on the home price index using the scatter plots.
+# Observation
+As most variable increase with time. So, it is expected that they will have high correlation. So, instead of depending upon the linear model, we can directly study the impact of variables on the home price index using the scatter plots.
+
 
 ***A few variables that could have been studied are below.***
-
 -Construction Prices
 -CPI
 -Number of new houses supplied
@@ -37,4 +38,4 @@ The following variables are chosen for the study-
 -Land availability
 -Number of active listings
 
-Thanku
+***Thanku***
